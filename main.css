@@ -1,18 +1,33 @@
   main {
     margin: 30px;
   }
-  
+
   img {
     height: 100px;
   }
-  
+
   /* Task 1 */
-  
+  h3 {
+    color: blue;
+  }
+
   /* Task 2 */
-  
+  .list {
+    color: red;
+  }
+
+
   /* Task 3 */
-  
+  main img+img {
+    border: solid blue;
+  }
+
   /* Task 4 */
-  
+  #link {
+    background-color: yellow;
+  }
+
   /* Task 5 */
-  
+  #first {
+    color: blueviolet;
+  }
